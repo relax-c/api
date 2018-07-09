@@ -1,0 +1,16 @@
+#python3文件
+*fabfile.py
+.idea
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea\
+.idea\*
+venv/
+venv/*
+venv\
+venv\*
+__pycache__/
+__pycache__/*
+__pycache__\
+__pycache__\*
